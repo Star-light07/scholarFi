@@ -1,0 +1,25 @@
+body {
+  font-family: 'Comfortaa', sans-serif !important;
+}
+
+.font{
+  font-family: 'Comfortaa', sans-serif !important;
+  /* font-weight: 1000; */
+  }
+
+button {
+  padding: 10px 15px;
+  background-color: #ff7f50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
